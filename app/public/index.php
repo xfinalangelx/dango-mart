@@ -37,8 +37,8 @@
         			<a href="#">
           				<legend id="forgot-pass"><h5>Forgot password?</h5></legend>
         			</a>     
-        			<input id="submit-btn" type="submit" name="submit" value="LOGIN" />
-        			<a href="#" id="signup"><h5>Don't have account yet?</h5></a>
+        			<input id="submit-btn" type="submit" name="submit" value="Login" />
+        			<a href="register.php" id="signup"><h5>Don't have account yet?</h5></a>
       			</form>
 			  </div>
 		  </div>
