@@ -12,3 +12,17 @@
 [07-May-2021 10:09:32] NOTICE: exiting, bye-bye!
 [07-May-2021 16:59:56] NOTICE: fpm is running, pid 2484
 [07-May-2021 16:59:56] NOTICE: ready to handle connections
+[07-May-2021 19:36:42] NOTICE: Terminating ...
+[07-May-2021 19:36:42] NOTICE: exiting, bye-bye!
+[07-May-2021 19:51:38] NOTICE: fpm is running, pid 3065
+[07-May-2021 19:51:38] NOTICE: ready to handle connections
+[07-May-2021 20:41:35] ERROR: Another FPM instance seems to already listen on /home/finalangel/.config/Local/run/VpBx3dsnn/php/php-fpm.socket
+[07-May-2021 20:41:35] ERROR: FPM initialization failed
+[07-May-2021 20:41:36] ERROR: Another FPM instance seems to already listen on /home/finalangel/.config/Local/run/VpBx3dsnn/php/php-fpm.socket
+[07-May-2021 20:41:36] ERROR: FPM initialization failed
+[07-May-2021 20:41:36] ERROR: Another FPM instance seems to already listen on /home/finalangel/.config/Local/run/VpBx3dsnn/php/php-fpm.socket
+[07-May-2021 20:41:36] ERROR: FPM initialization failed
+[07-May-2021 20:41:37] ERROR: Another FPM instance seems to already listen on /home/finalangel/.config/Local/run/VpBx3dsnn/php/php-fpm.socket
+[07-May-2021 20:41:37] ERROR: FPM initialization failed
+[07-May-2021 21:30:07] NOTICE: Terminating ...
+[07-May-2021 21:30:07] NOTICE: exiting, bye-bye!
